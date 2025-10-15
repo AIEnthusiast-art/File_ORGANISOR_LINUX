@@ -1,0 +1,71 @@
+ 
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 📦 Virtual Environment
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# 📄 Logs and Local Data
+*.log
+*.sqlite3
+*.db
+*.dat
+*.pid
+
+# 📁 OS and Editor Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 🧪 Testing and Coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# 🧰 IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 📦 Package Builds
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# 🔧 Configs and Secrets
+.env
+.env.*
+*.secret
+*.key
+*.pem
+*.crt
+
+# 📚 Jupyter Notebooks
+.ipynb_checkpoints
+
+# 📦 Pipenv
+Pipfile.lock
+
+# 🧹 Misc
+*.bak
+*.tmp
+*.swp
